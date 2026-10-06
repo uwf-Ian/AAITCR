@@ -1,0 +1,376 @@
+{
+    "The Fool": {
+      "life": {
+        "past": "Your past reveals a cycle that brought quiet transformation.",
+        "present": "The universe gently nudges you toward clarity and growth.",
+        "future": "The unseen future holds a turning point of great potential."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "Connection is blooming in subtle ways\u2014listen closely.",
+        "future": "Love may arrive unexpectedly, changing your rhythm."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "New opportunities rise as the universe shifts in your favor."
+      }
+    },
+    "The Magician": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The heart seeks truth, even when veiled in mystery.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "Now is a moment of alignment\u2014listen to your inner drive.",
+        "future": "A moment of clarity will guide your career steps."
+      }
+    },
+    "The High Priestess": {
+      "life": {
+        "past": "Your past reveals a cycle that brought quiet transformation.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "Love may arrive unexpectedly, changing your rhythm."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "Now is a moment of alignment\u2014listen to your inner drive.",
+        "future": "New opportunities rise as the universe shifts in your favor."
+      }
+    },
+    "The Empress": {
+      "life": {
+        "past": "Your past reveals a cycle that brought quiet transformation.",
+        "present": "The universe gently nudges you toward clarity and growth.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The heart seeks truth, even when veiled in mystery.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "A decision once made still shapes your professional identity.",
+        "present": "Now is a moment of alignment\u2014listen to your inner drive.",
+        "future": "A moment of clarity will guide your career steps."
+      }
+    },
+    "The Emperor": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "The unseen future holds a turning point of great potential."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "Connection is blooming in subtle ways\u2014listen closely.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "New opportunities rise as the universe shifts in your favor."
+      }
+    },
+    "The Hierophant": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "A bond once formed still echoes through your heart space.",
+        "present": "Connection is blooming in subtle ways\u2014listen closely.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "A moment of clarity will guide your career steps."
+      }
+    },
+    "The Lovers": {
+      "life": {
+        "past": "You once walked a path shaped by unseen forces.",
+        "present": "The present hums with subtle energy inviting reflection.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "The Chariot": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "The heart seeks truth, even when veiled in mystery.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "Strength": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "The universe gently nudges you toward clarity and growth.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "Love may arrive unexpectedly, changing your rhythm."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "A moment of clarity will guide your career steps."
+      }
+    },
+    "The Hermit": {
+      "life": {
+        "past": "You once walked a path shaped by unseen forces.",
+        "present": "The universe gently nudges you toward clarity and growth.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "Connection is blooming in subtle ways\u2014listen closely.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "The Wheel of Fortune": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "A bond once formed still echoes through your heart space.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "New opportunities rise as the universe shifts in your favor."
+      }
+    },
+    "Justice": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "The present hums with subtle energy inviting reflection.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "A bond once formed still echoes through your heart space.",
+        "present": "Connection is blooming in subtle ways\u2014listen closely.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "New opportunities rise as the universe shifts in your favor."
+      }
+    },
+    "The Hanged Man": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "The universe gently nudges you toward clarity and growth.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "The heart seeks truth, even when veiled in mystery.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "A decision once made still shapes your professional identity.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "New opportunities rise as the universe shifts in your favor."
+      }
+    },
+    "Death": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "The present hums with subtle energy inviting reflection.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "A moment of clarity will guide your career steps."
+      }
+    },
+    "Temperance": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "The universe gently nudges you toward clarity and growth.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "The Devil": {
+      "life": {
+        "past": "Your past reveals a cycle that brought quiet transformation.",
+        "present": "The present hums with subtle energy inviting reflection.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The heart seeks truth, even when veiled in mystery.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "The Tower": {
+      "life": {
+        "past": "Your past reveals a cycle that brought quiet transformation.",
+        "present": "The present hums with subtle energy inviting reflection.",
+        "future": "The unseen future holds a turning point of great potential."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "The heart seeks truth, even when veiled in mystery.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "Now is a moment of alignment\u2014listen to your inner drive.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "The Star": {
+      "life": {
+        "past": "You once walked a path shaped by unseen forces.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "A decision once made still shapes your professional identity.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "A moment of clarity will guide your career steps."
+      }
+    },
+    "The Moon": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "The Sun": {
+      "life": {
+        "past": "You once walked a path shaped by unseen forces.",
+        "present": "The universe gently nudges you toward clarity and growth.",
+        "future": "A shift is on the horizon, aligning with your soul's path."
+      },
+      "love": {
+        "past": "The shadows of past love shaped what you seek now.",
+        "present": "The heart seeks truth, even when veiled in mystery.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "New opportunities rise as the universe shifts in your favor."
+      }
+    },
+    "Judgement": {
+      "life": {
+        "past": "Your past reveals a cycle that brought quiet transformation.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "Something long dormant will awaken and guide your journey."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "A revelation in matters of the heart lies just ahead."
+      },
+      "career": {
+        "past": "You\u2019ve walked a path forged through quiet determination.",
+        "present": "You stand at a crossroad of purpose and ambition.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    },
+    "The World": {
+      "life": {
+        "past": "Hidden lessons shaped the core of your being.",
+        "present": "You are standing at a threshold, guided by intuition.",
+        "future": "The unseen future holds a turning point of great potential."
+      },
+      "love": {
+        "past": "Emotional currents from yesterday still flow beneath the surface.",
+        "present": "The present moment whispers of deeper emotional ties.",
+        "future": "Emotional harmony is forming beyond what is seen."
+      },
+      "career": {
+        "past": "Past ambitions paved the way for your current role.",
+        "present": "Creative forces stir within your current pursuits.",
+        "future": "Something hidden will become a guiding light for success."
+      }
+    }
+  }
